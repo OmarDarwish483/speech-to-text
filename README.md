@@ -1,4 +1,3 @@
-```markdown
 # 🗣️ Speech-to-Text Converter
 
 ## 🌟 About the Project
