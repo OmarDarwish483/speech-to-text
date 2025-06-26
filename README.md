@@ -106,10 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect with Us
 
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-- **Email**: your-email@example.com
-
----
-
-Feel free to reach out with any questions or suggestions! 🚀
-```
+- **Email**: darwishomar158@gmail.com
